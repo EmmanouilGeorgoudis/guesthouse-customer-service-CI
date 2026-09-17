@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>manolis</groupId>
-    <artifactId>guesthouse-customer-service</artifactId>
+    <artifactId>guesthouse-customer-service-CI</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>guesthouse-customer-service</name>
-    <description>guesthouse-customer-service</description>
+    <name>guesthouse-customer-service-CI</name>
+    <description>guesthouse-customer-service-CI</description>
     <url/>
     <licenses>
         <license/>
